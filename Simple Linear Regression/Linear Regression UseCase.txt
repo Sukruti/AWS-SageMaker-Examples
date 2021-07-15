@@ -1,0 +1,3 @@
+The Outcome of the model is to come up with an equation i.e Linear Regression Model that could predict the employee salary based on years of experience.
+The goal of the model is to find the best fit line that holds the relation between independent and dependent variable.The Parameters requred for the model i.e slop coefficient and intersept are obtained by training the model with the training data set.
+In this project I have show how the model can be created trained and deployed using both traditional method and using AWS SageMaker.
